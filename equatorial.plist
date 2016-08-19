@@ -17,19 +17,19 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://icon</string>
+					<string>https://www.ihuahsen.com/icon57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://launchimage</string>
+					<string>https://www.ihuashen.com/launchimage512x512.jpeg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.huashen.cn.equatorial</string>
+				<string>com.ihuashen.fidnmf</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
